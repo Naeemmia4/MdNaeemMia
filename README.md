@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Banner Image](https://github.com/MdNaeemMia/MdNaeemMia/raw/main/your-banner-image.png)
+![Banner Image](https://github.com/MdNaeemMia/MdNaeemMia/raw/main/GIG image 2(Naeem).png)
 
 ## About Me
 
